@@ -27,7 +27,7 @@ export const memories = [
   {
     id: 'drawer-01',
     title: 'things you probably forgot',
-    text: 'i remember how you said that there was once a time when you used to write and dance but then you left. i bet you used to be happy and i wanna se that happy and charming old pratiksha at least once.',
+    text: 'i remember how you said that there was once a time when you used to write and dance but then you left. i bet you used to be happy jetiya tumi dance korisila and i wanna se that happy and charming old pratiksha at least once.',
     category: 'phase-2',
     object: 'drawer',
     date: null,
@@ -43,7 +43,7 @@ export const memories = [
   {
     id: 'headphones-01',
     title: 'the songs that describes you',
-    text: 'the songs that you love(lover and darkhaast) represents your sweet and lovely side and the song that i used to describe you "heaven is you" resembles how charming, enchanting and full of light you are.',
+    text: 'the songs that you love(lover and darkhaast) represents your sweet and lovely side and the song that i used to describe you "heaven is you" resembles how charming, enchanting and full of light you are as if heaven itself resides in you.',
     category: 'phase-3',
     object: 'headphones',
     date: null,
@@ -59,7 +59,7 @@ export const memories = [
   {
     id: 'flower-01',
     title: 'a small preference',
-    text: 'uk i recently realised that you have a habit of doing everything you can to light everyone up around you and on the contrary you also have a habit of isolating yourself whenever you\'re dealing with something. that\'s something i noticed and i\'d say please don\'t isolate yourself as uk you\'ve got friends, you\'ve got me..',
+    text: 'uk i recently realised that you have a habit of doing everything you can to light everyone up around you and on the contrary you also have a habit of isolating yourself whenever you\'re dealing with something. that\'s something i noticed and i\'d say please don\'t isolate yourself as uk you\'ve got your friends and also, you\'ve got me..',
     category: 'phase-4',
     object: 'flower',
     date: null,
@@ -67,7 +67,7 @@ export const memories = [
   {
     id: 'cup-01',
     title: 'the things thaat makes you different',
-    text: 'the way you smile, the way you talk and react, the way you try to fix everything even if nothing\'s wrong is what makes you special and charming.',
+    text: 'the way you smile, the way you talk and react, how your eyes glow everytime you see rain or clouds, the way you try to fix everything even if nothing\'s wrong is what makes you special and charming.',
     category: 'phase-1',
     object: 'cup',
     date: null,
@@ -91,7 +91,7 @@ export const memories = [
   {
     id: 'calendar-01',
     title: 'a specific day',
-    text: 'sept 7, i\'m glad je tumi poisa pahori goisila karon that was the reason i got to know you. september 15, i still remember je tumi hei dina kandi disila as i made something for you and you loved it and tar pasot tumi kiman happy asila and sept 21,  mur birthday. uk moi ketiau bhaba nasilu iman bhal birthday moi ketiyaba celebrate korim.',
+    text: 'sept 7, i\'m glad je tumi poisa pahori goisila karon that was the reason i got to know you. september 15, i still remember je tumi hei dina kandi disila as i made something for you and you loved it and tar pasot tumi kiman happy asila and sept 21,  mur birthday. uk moi ketiau bhaba nasilu iman bhal birthday moi ketiyaba celebrate korim. uk I\'m glad and I\'m lucky that i met you.',
     category: 'phase-2',
     object: 'calendar',
     date: 'a day worth keeping',
