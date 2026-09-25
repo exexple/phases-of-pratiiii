@@ -30,7 +30,7 @@ export default function PolaroidSection({ polaroids }) {
       <div className={`phase-header reveal ${visible ? 'visible' : ''}`}>
         <p className="phase-number">gallery</p>
         <h2 className="phase-title">moments in polaroids</h2>
-        <p className="phase-desc">some photos i kept. you probably forgot about most of them.</p>
+        <p className="phase-desc">some photos i kept as they felt really special to me.</p>
       </div>
 
       <div className="polaroids-grid">
