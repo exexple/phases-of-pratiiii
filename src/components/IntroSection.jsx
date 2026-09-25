@@ -13,7 +13,7 @@ export default function IntroSection({ entered, onEnter }) {
           some phases of pratii <span className="blossom">🌺</span>
         </h1>
         <p className="intro-subtitle">
-          scroll through the little things i remember about you
+          scroll through the small digital world made specifically for you
         </p>
 
         {!entered && (
