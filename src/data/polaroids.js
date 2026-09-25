@@ -16,14 +16,14 @@ export const polaroids = [
   {
     id: 1,
     src: '/images/pratiksha/polaroid-01.jpg',
-    caption: 'this one made me smile for a week',
+    caption: 'this one made my day really soecial',
     location: 'drawer',
     rotation: -4,
   },
   {
     id: 2,
     src: '/images/pratiksha/polaroid-02.jpg',
-    caption: 'you didn\'t know i noticed',
+    caption: 'the first photo that you ever sent',
     location: 'wall',
     rotation: 3,
   },
@@ -37,14 +37,14 @@ export const polaroids = [
   {
     id: 4,
     src: '/images/pratiksha/polaroid-04.jpg',
-    caption: 'saved this one separately',
+    caption: 'remember how i was asking for this?',
     location: 'hidden',
     rotation: 5,
   },
   {
     id: 5,
     src: '/images/pratiksha/polaroid-05.jpg',
-    caption: 'the one i keep coming back to',
+    caption: 'and finally, my fav one',
     location: 'shelf',
     rotation: -3,
   },
