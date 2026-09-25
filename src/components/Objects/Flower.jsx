@@ -21,8 +21,9 @@ function Petal({ angle, color }) {
     <mesh
       position={[Math.cos(angle) * 0.055, 0.01, Math.sin(angle) * 0.055]}
       rotation={[Math.PI / 2, 0, angle]}
+      scale={[1, 1.7, 1]}
     >
-      <ellipseGeometry args={[0.035, 0.06, 8]} />
+      <circleGeometry args={[0.035, 8]} />
       <meshStandardMaterial color={color} roughness={0.8} side={2} />
     </mesh>
   )
@@ -77,8 +78,8 @@ export default function Flower({ position = [-1.8, 0.85, 0.7] }) {
         </mesh>
 
         {/* ── Leaf ──────────────────────────────────── */}
-        <mesh position={[0.04, 0.14, 0]} rotation={[0, 0, 0.8]}>
-          <ellipseGeometry args={[0.03, 0.06, 8]} />
+        <mesh position={[0.04, 0.14, 0]} rotation={[0, 0, 0.8]} scale={[1, 2, 1]}>
+          <circleGeometry args={[0.03, 8]} />
           <meshStandardMaterial color="#354828" roughness={0.85} side={2} />
         </mesh>
 

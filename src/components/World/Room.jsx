@@ -75,7 +75,7 @@ export default function Room() {
       {/* ── Ceiling trim ──────────────────────────────── */}
       <mesh position={[0, H - 0.05, -D / 2 + 0.03]}>
         <boxGeometry args={[W, 0.1, 0.06]} />
-        <meshStandardMaterial color="#1A182280" roughness={0.9} />
+        <meshStandardMaterial color="#1A1822" transparent={true} opacity={0.5} roughness={0.9} />
       </mesh>
 
       {/* ── Wall panel detail (back wall decorative) ──── */}
