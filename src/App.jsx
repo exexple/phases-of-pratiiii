@@ -86,8 +86,8 @@ export default function App() {
         )}
       </div>
 
-      {/* Music player */}
-      {entered && <MusicPlayer config={musicConfig} />}
+      {/* Music player with instant autoplay */}
+      <MusicPlayer config={musicConfig} entered={entered} />
 
       {/* Memory modal */}
       <AnimatePresence>
