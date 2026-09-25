@@ -30,7 +30,7 @@ export const polaroids = [
   {
     id: 3,
     src: '/images/pratiksha/polaroid-03.jpg',
-    caption: 'a very ordinary day, actually',
+    caption: 'a normal day that became special',
     location: 'desk',
     rotation: -2,
   },
