@@ -54,7 +54,14 @@ export default function FinalSection() {
           <br />
           else that i've ever done and i'll ever do
         </p>
-
+        <p className="final-message-text">
+          at last, i wanna say that i may not be much, i may not be
+          <br />
+          cool or interesting, i may not be charming but i'll always
+          <br /> 
+          be the one who stands by your side forever
+        </p>
+        
         <p className="final-signature">
           — for you, from someone who wants you to be happy forever🌺
         </p>
