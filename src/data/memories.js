@@ -19,7 +19,7 @@ export const memories = [
   {
     id: 'lamp-01',
     title: 'something i want you to know',
-    text: 'uk the way you light everything up for everyone around you is beautiful. everything you do leaves an impact everyound you.',
+    text: 'uk the way you light everything up for everyone around you is beautiful. everything you do leaves an impact on everyone around you.',
     category: 'phase-1',
     object: 'lamp',
     date: null,
@@ -27,7 +27,7 @@ export const memories = [
   {
     id: 'drawer-01',
     title: 'things you probably forgot',
-    text: 'i remember how you said that there was once a time when you used to write and dance but then you left. i bet you used to be happy and i wanna se that pratiksha at least once.',
+    text: 'i remember how you said that there was once a time when you used to write and dance but then you left. i bet you used to be happy and i wanna se that happy and charming old pratiksha at least once.',
     category: 'phase-2',
     object: 'drawer',
     date: null,
@@ -51,7 +51,7 @@ export const memories = [
   {
     id: 'window-01',
     title: 'evenings, terrace, rain and nights',
-    text: 'i remember you said that tumr mon beya lagiile baa aku koribo mon nogole tumi terrace t goi boha and gaan xuna as it gives you peace.',
+    text: 'i remember you said that tumr mon beya lagiile baa aku koribo mon nogole tumi terrace t goi boha and gaan xuna as it gives you peace and soothes your mind and calms you down.',
     category: 'phase-2',
     object: 'window',
     date: null,
@@ -59,7 +59,7 @@ export const memories = [
   {
     id: 'flower-01',
     title: 'a small preference',
-    text: 'uk i recently realised that you have a habit of doing everything you can to light everyone up around you and on the contrary you also have a habit of isolating yourself whenever you\'re dealing with something. that\'s something i noticed.',
+    text: 'uk i recently realised that you have a habit of doing everything you can to light everyone up around you and on the contrary you also have a habit of isolating yourself whenever you\'re dealing with something. that\'s something i noticed and i\'d say please don\'t isolate yourself as uk you\'ve got friends, you\'ve got me..',
     category: 'phase-4',
     object: 'flower',
     date: null,
@@ -91,7 +91,7 @@ export const memories = [
   {
     id: 'calendar-01',
     title: 'a specific day',
-    text: 'sept 7, i\'m glad je tumi poisa pahori goisila karon that was the reason i got to know you. september september 15, i still remember je tumi hei dina kandi disila as i made something for you and you loved it and tar pasot tumi kiman happy asila and sept 21,  mur birthday. uk moi ketiau bhaba nasilu iman bhal birthday moi ketiyaba celebrate korim.',
+    text: 'sept 7, i\'m glad je tumi poisa pahori goisila karon that was the reason i got to know you. september 15, i still remember je tumi hei dina kandi disila as i made something for you and you loved it and tar pasot tumi kiman happy asila and sept 21,  mur birthday. uk moi ketiau bhaba nasilu iman bhal birthday moi ketiyaba celebrate korim.',
     category: 'phase-2',
     object: 'calendar',
     date: 'a day worth keeping',
