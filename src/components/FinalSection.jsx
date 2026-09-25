@@ -59,7 +59,7 @@ export default function FinalSection() {
           <br />
           cool or interesting, i may not be charming but i'll always
           <br /> 
-          be the one who stands by your side forever
+          be the one who stands up for you forever
         </p>
         
         <p className="final-signature">
