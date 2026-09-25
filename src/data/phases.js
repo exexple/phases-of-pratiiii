@@ -8,24 +8,24 @@ export const phases = [
     index: 0,
     label: 'Phase I',
     title: 'the familiar things',
-    description: 'small habits. small preferences. tiny observations.',
+    description: 'small habits. small preferences. tiny observations that i remembered.',
   },
   {
     index: 1,
     label: 'Phase II',
     title: 'the moments',
-    description: 'specific conversations. funny incidents. small memories.',
+    description: 'specific conversations. funny incidents. small memories i refuse to forget.',
   },
   {
     index: 2,
     label: 'Phase III',
     title: 'the things i remember',
-    description: 'unexpected details. things she may have forgotten she ever mentioned.',
+    description: 'unexpected details. things about you worth remembering forever.',
   },
   {
     index: 3,
     label: 'Phase IV',
-    title: 'the things that feel like her',
+    title: 'the things that feel like you',
     description: 'characteristic habits. little personality details.',
   },
   {
