@@ -44,13 +44,19 @@ export default function FinalSection() {
         <p className="final-message-text" style={{ marginTop: '1.5rem' }}>
           and i didn't build this to impress you.
           <br />
+          i built it because i wanted you to smile again
+          <br />
           i built it because you deserve to know —
           <br />
           someone was paying attention the whole time.
+          <br />
+          i built it because you deserve this and everything
+          <br />
+          else that i've ever done and i'll ever do
         </p>
 
         <p className="final-signature">
-          — for pratiksha, from someone who notices everything about you
+          — for you, from someone who wants you to be happy forever🌺
         </p>
       </div>
     </section>
