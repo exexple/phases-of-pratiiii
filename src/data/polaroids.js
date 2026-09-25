@@ -16,7 +16,7 @@ export const polaroids = [
   {
     id: 1,
     src: '/images/pratiksha/polaroid-01.jpg',
-    caption: 'this one made my day really soecial',
+    caption: 'this one made my day really special',
     location: 'drawer',
     rotation: -4,
   },
@@ -37,7 +37,7 @@ export const polaroids = [
   {
     id: 4,
     src: '/images/pratiksha/polaroid-04.jpg',
-    caption: 'remember how i was asking for this?',
+    caption: 'remember how i was asking for this pic like a baby?',
     location: 'hidden',
     rotation: 5,
   },
