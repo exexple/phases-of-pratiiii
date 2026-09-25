@@ -5,9 +5,5 @@ export default defineConfig({
   plugins: [react()],
   build: {
     target: 'es2020',
-    chunkSizeWarningLimit: 3000,
-  },
-  optimizeDeps: {
-    include: ['three', '@react-three/fiber', '@react-three/drei'],
   },
 })
