@@ -91,7 +91,7 @@ export const memories = [
   {
     id: 'calendar-01',
     title: 'a specific day',
-    text: 'sept 7, i\'m glad je tumi poisa pahori goisila karon that was the reason i got to know you. september 15, i still remember je tumi hei dina kandi disila as i made something for you and you loved it and tar pasot tumi kiman happy asila and sept 21,  mur birthday. uk moi ketiau bhaba nasilu iman bhal birthday moi ketiyaba celebrate korim. uk I\'m glad and I\'m lucky that i met you.',
+    text: 'sept 7, i\'m glad je tumi poisa pahori goisila karon that was the reason i got to know you. september 15, i still remember je tumi hei dina kandi disila as i made something for you and you loved it and tar pasot tumi kiman happy asila and sept 21,  mur birthday. uk moi ketiau bhaba nasilu iman bhal birthday moi ketiyaba celebrate korim. that was byfar the best birthday ever.',
     category: 'phase-2',
     object: 'calendar',
     date: 'a day worth keeping',
