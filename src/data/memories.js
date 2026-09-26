@@ -27,7 +27,7 @@ export const memories = [
   {
     id: 'drawer-01',
     title: 'things you probably forgot',
-    text: 'i remember how you said that there was once a time when you used to write and dance but then you left. i bet you used to be happy jetiya tumi dance korisila and i wanna se that happy and charming old pratiksha at least once.',
+    text: 'i remember how you said that there was once a time when you used to write and dance but then you stopped. i bet you used to be happy jetiya tumi dance korisila and i wanna se that happy and charming old pratiksha again being the best at everything she does.',
     category: 'phase-2',
     object: 'drawer',
     date: null,
